@@ -3,3 +3,4 @@
 /mypackages/__pycache__/*
 /mypackages/models/__pycache__/*
 /mypackages/utils/__pycache__/*
+**/.DS_Store
