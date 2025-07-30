@@ -1,0 +1,5 @@
+/competitions/*/data/*
+/competitions/*/outputs/*
+/mypackages/__pycache__/*
+/mypackages/models/__pycache__/*
+/mypackages/utils/__pycache__/*
